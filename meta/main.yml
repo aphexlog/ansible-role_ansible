@@ -2,8 +2,9 @@
 dependencies: []
 
 galaxy_info:
+  role_name: ansible
   author: Aaron W. West
-  description: Ansible for RedHat/CentOS/Debian/Ubuntu.
+  description: Ansible role that installs Ansible.
   min_ansible_version: 2.4
   platforms:
     - name: EL
